@@ -1,0 +1,21 @@
+mypy 테스트 결과
+===== 1_1260.py =====
+Success: no issues found in 1 source file
+===== 2_11866.py =====
+Success: no issues found in 1 source file
+===== 2_2164.py =====
+Success: no issues found in 1 source file
+===== 3_10830.py =====
+Success: no issues found in 1 source file
+===== 3_1629.py =====
+Success: no issues found in 1 source file
+===== 4_3080.py =====
+Success: no issues found in 1 source file
+===== 4_5670.py =====
+Success: no issues found in 1 source file
+===== 5_17408.py =====
+Success: no issues found in 1 source file
+===== 5_2243.py =====
+Success: no issues found in 1 source file
+===== 5_3653.py =====
+Success: no issues found in 1 source file
