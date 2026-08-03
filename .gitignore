@@ -221,3 +221,6 @@ __MACOSX/
 
 creditcard.csv~$*
 ~$*
+
+.venv/
+data/
